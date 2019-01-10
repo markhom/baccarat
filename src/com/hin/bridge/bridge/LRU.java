@@ -76,6 +76,5 @@ public class LRU<K,V> {
         cache.get(3);       // 返回  3
         cache.get(4);       // 返回  4
 
-        cache.get(5); //返回-1
     }
 }
